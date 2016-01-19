@@ -18,7 +18,7 @@ $ npm install --save ascii-hex
 const hex = require('ascii-hex');
 
 hex('A');
-//=> '0x41'
+//=> 0x41
 ```
 
 
