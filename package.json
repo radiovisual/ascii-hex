@@ -27,7 +27,9 @@
     "change",
     "character",
     "string",
-    "char"
+    "char",
+    "code",
+    "value"
   ],
   "dependencies": {},
   "devDependencies": {
