@@ -24,7 +24,7 @@ hex('A');
 
 ## API
 
-### hexValue(input)
+### asciiHex(input)
 
 Returns the hexadecimal value of the ASCII character
 
@@ -34,6 +34,9 @@ Type: `string`
 
 The ASCII character you want to convert to hex.
 
+## Related
+
+- [ascii-decimal](https://github.com/radiovisual/ascii-decimal) Get the decimal value of an ASCII character
 
 ## License
 
