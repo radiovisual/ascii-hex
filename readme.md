@@ -2,7 +2,7 @@
 
 > Get the hexadecimal value of an ASCII character
 
-[![Build Status](https://travis-ci.org/radiovisual/hex-value.svg?branch=master)](https://travis-ci.org/radiovisual/hex-value)
+[![Build Status](https://travis-ci.org/radiovisual/ascii-hex.svg?branch=master)](https://travis-ci.org/radiovisual/ascii-hex)
 
 
 ## Install

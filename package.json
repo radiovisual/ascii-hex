@@ -1,6 +1,6 @@
 {
   "name": "ascii-hex",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get the hexadecimal value of an ASCII character",
   "license": "MIT",
   "repository": "radiovisual/ascii-hex",
