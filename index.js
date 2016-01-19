@@ -6,5 +6,7 @@ module.exports = function (str, opts) {
 
 	opts = opts || {};
 
-	return '0x' + str.charCodeAt(0).toString(16);
+	var hex = str.charCodeAt(0).toString(16);
+
+	return Number('0x' + hex);
 };

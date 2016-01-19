@@ -26,11 +26,14 @@ hex('A');
 
 ### hexValue(input)
 
+Returns the hexadecimal value of the ASCII character
+
 #### input
 
 Type: `string`
 
-The ASCII character you want to convert.
+The ASCII character you want to convert to hex.
+
 
 ## License
 
